@@ -1,0 +1,3 @@
+LN-RESOLUSI
+- learn basic : HTML, CSS, PHP, Javascript
+- learn framework : Bootstrap, Codeigniter, Laravel
